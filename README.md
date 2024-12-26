@@ -12,4 +12,4 @@
 
 ## This is my example
 
-![alt text](./image-2.png)
+![alt text](./doc/image-2.png)
