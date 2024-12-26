@@ -10,9 +10,9 @@ import BpmnModeler from 'bpmn-js/lib/Modeler'
 import { ref, onMounted, onBeforeUnmount } from 'vue'
 import * as PropertiesPanelModule from '@bpmn-io/properties-panel'
 import { xmlStr } from '@/mock/xmlStr'
-import '@bpmn-io/properties-panel/dist/assets/properties-panel.css'
-import 'bpmn-js/dist/assets/diagram-js.css'
-import 'bpmn-js/dist/assets/bpmn-font/css/bpmn.css'
+// import '@bpmn-io/properties-panel/dist/assets/properties-panel.css'
+// import 'bpmn-js/dist/assets/diagram-js.css'
+// import 'bpmn-js/dist/assets/bpmn-font/css/bpmn.css'
 
 import {
   BpmnPropertiesPanelModule,
